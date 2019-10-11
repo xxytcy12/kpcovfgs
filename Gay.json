@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ALA",
-          "prestige" : "100",
+          "prestige" : "60",
           "state" : "Alabama",
           "name" : "Alabama",
           "headCoach" : {
@@ -12,7 +12,7 @@
             "startYear" : "2019",
             "age" : "21",
             "ratOff" : "96",
-            "cumulativePrestige" : "100",
+            "cumulativePrestige" : "60",
             "ratDef" : "97",
             "homeState" : "Alaska",
             "ratPot" : "99",
